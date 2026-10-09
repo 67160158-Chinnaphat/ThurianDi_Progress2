@@ -158,11 +158,9 @@ docker exec -it -e ADMIN_USERNAME=admin -e ADMIN_EMAIL=admin@example.com -e ADMI
 ## 🖼️ ภาพประกอบ
 > ใส่ภาพหน้าจอของระบบ และแผนภาพสถาปัตยกรรมที่นี่ เช่น
 
-```
-### สถาปัตยกรรมระบบ
-![สถาปัตยกรรมระบบ](durian_architecture.png)
-<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/62d0bb9c-6209-4b98-a38a-e02fc4f97103" />
+![architecture](durian_architecture.png)
 
-### Technology Stack
-![Technology Stack](durian_tech_stack.png)
-"# ThurianDi_Progress2" 
+
+![architecture](durian_tech_stack.png)
+
+
