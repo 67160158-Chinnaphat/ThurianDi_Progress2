@@ -164,3 +164,4 @@ docker exec -it -e ADMIN_USERNAME=admin -e ADMIN_EMAIL=admin@example.com -e ADMI
 
 ### Technology Stack
 ![Technology Stack](durian_tech_stack.png)
+"# ThurianDi_Progress2" 
